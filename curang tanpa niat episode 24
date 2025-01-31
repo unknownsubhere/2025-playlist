@@ -1,0 +1,4 @@
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=957cf3a4ce6f96ca118ce689fdacc110:5fba6fbcab2ed8a79e63407551214b3c
+#EXTINF:-1 type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPUCA_series_IVP_LAND_917x516_7F828_20241220_13299.jpg" group-title="Curang Tanpa Niat", Curang Tanpa Niat E24
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/6377bc02-e26a-5e57-baac-2c7c166ef508/default_primary.mpd
