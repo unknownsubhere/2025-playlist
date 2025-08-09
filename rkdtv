@@ -6126,3 +6126,11 @@ https://redirect.sooka-token-generator.workers.dev/?url=https://l18.dp.sooka.my/
 
 
 
+#EXTINF:-1 tvg-id=" group-logo="https://iili.io/F00YX0g.png"Andflix.in" tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="Movies", &Flix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2685.ts
+
+#EXTINF:-1 tvg-id=" group-logo="https://iili.io/F00YX0g.png" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eec7fe0772265fedb969/images/626.webp" group-title="Movies",&Prive HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2686.ts
+
