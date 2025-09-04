@@ -15,7 +15,8 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"  tvg-id="245" ch-number=" " tvg-name="Vijay Super" group-title="Hindi/Tamil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest?cb=20210319232047",245 Vijay Super 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
-https://haoyunlai.serv00.net/Smartv-1.php?id=vijaysuper_raj
+http://royalibox.com:80/live/m7t7u5p96o/g4xb6pbb1r/277101.m3u8
+#https://haoyunlai.serv00.net/Smartv-1.php?id=vijaysuper_raj
 
 #EXTINF:-1  group-logo="https://is.gd/dvboM8.png" group-title="Movies" tvg-id="ts210" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgooqadNDxQoO_-iouBbw_tMTAcVw58LQyit23uRAUKwDIw0vSuXn8SFmUlGXIUpVW5OFXMlbSgMdYFGHLwKL0IUogvKfc4ZtLFgEq-QFnh5L-ss8Xh9sT1jISD8XRyIHbTExCyQK7riACoW1kozuSodVajOMgmgEHzasdMD7vz6-5CKvOJnKyM9JU8tPYA" group-logo="" group-logo=" "  , MN+ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -47,6 +48,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_ott.mpd
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"  tvg-id="245" ch-number=" " tvg-name="Vijay Super" group-title="Indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest?cb=20210319232047",245 Vijay Super 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+
 https://haoyunlai.serv00.net/Smartv-1.php?id=vijaysuper_raj
 
 
@@ -7087,6 +7089,7 @@ http://protv.asia:8080/movie/33887773366/226999/3654.mp4
 http://protv.asia:8080/movie/33887773366/226999/3656.mp4
 #EXTINF: -1 tvg-id="3657" tvg-name="Velvet Buzzsaw" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjExMDQ1NjMzOV5BMl5BanBnXkFtZTgwMjkxMzMyNzM@._V1_.jpg" group-title="NETFLIX",Velvet Buzzsaw
 http://protv.asia:8080/movie/33887773366/226999/3657.mp4
+
 
 
 
