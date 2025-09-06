@@ -1,4 +1,11 @@
 
+#EXTINF:-1 tvg-id="245" ch-number=" " tvg-name="Vijay Super" group-title="04.Indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest?cb=20210319232047",245 Vijay Super 
+http://royalibox.com:80/live/m7t7u5p96o/g4xb6pbb1r/277101.m3u8
+#https://haoyunlai.serv00.net/Smartv-1.php?id=vijaysuper_raj
+
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"  tvg-id="245" ch-number=" " tvg-name="Vijay Super" group-title="04.Indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest?cb=20210319232047",245 Vijay Super 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+http://starshare.fun/live/0746623849/567894321/1614.m3u8
 
 #EXTM3U
 #EXTM3U tvg-url="https://epg.kampung.xyz"https://live.dinesh29.com.np/epg/livetv/master-epg.xml" refresh="3600" max-conn="1" refresh="24"
@@ -10661,3 +10668,4 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
+
