@@ -1,6 +1,6 @@
-#EXTM3U billed-msg="🌟 MTS IPTV | 👤 freedom | 📅 Expires: 23-10-2025 09:09:42 | 📱 Devices: 1/1 | Contact: @SHARiLs"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4RP1vGQ1/EXPIRED-DATE-removebg-preview.png",📅 EXPIRY: 23-10-2025 09:09:42
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WpfWm4jv/USERNAME-removebg-preview.png",👤 USER: freedom
+#EXTM3U billed-msg="🌟 MTS IPTV | 👤 Haziq Danial Mohd Iqbal | 📅 Expires: UNLIMITED | 📱 Devices: 1/1 | Contact: Haziq Danial Mohd Iqbal"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RP1vGQ1/EXPIRED-DATE-removebg-preview.png",📅 EXPIRY: UNLIMITED
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WpfWm4jv/USERNAME-removebg-preview.png",👤 USER: Haziq Danial Mohd Iqbal
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0hKJY7g/DEVICE-LIMIT.png",📱 DEVICES: 1/1
 #EXTM3U
 
@@ -42,10 +42,6 @@ https://live-03.tonton.com.my/1761141676/0xa24d47751d5e8a479693ffdef7218c18d897c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.tonton.com.my
 https://live-ssar-01.tonton.com.my/1761152628/0xbf740ecf3f2ab3803e9637b7a51c96d8ad7143ba51a5fac4b41d7cfe3b43bf4b/v1/sysdata_s_p_a_fifa_6/ohlscdn_us/V00000000/0/HLS/playlist_4300k_20251020T100738.m3u8?bpkio_serviceid=6c0958d82a830a0209c322ecb3772978&bpkio_sessionid=10d3d9a107-c5dff859-286f-4765-85a6-35030f261b3f
-
-
-
-##################################### ANEKA MELAYU #################################################
 
 
 
@@ -7087,6 +7083,26 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 
 
                                                                                                                                                                                                                                               
+
+
+
+////////////////////////////////// NEW CHANNEL ASTROX GO CH100 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"}
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jCaEXnIbJXSNUeN90Gcapg", "kid":"nxLHOg2s3BDcixZcbHaYEA" } ], "type":"temporary" }
+#####KODIPROP:inputstream.adaptive.license_key=9f12c73a0dacdc10dc8b165c6c769810:8c26845e721b25748d51e37dd0671aa6
+#EXTINF:-1 tvg-id="100.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Scream_2025.png" group-logo="https://i.ibb.co/Fq4SZvYx/SHRLIPTV.jpg" group-title="ðŸ‡²ðŸ‡¾ ANEKA MELAYU (ASTRO GO)",100 SCREAM
+##>>##https://linearjitp-playback.astro.com.my/dash-wv/linear/5181/default_primary.mpd
+
+#EXTINF:-1 tvg-id="100.astro" group-title="ðŸ‡²ðŸ‡¾ ANEKA MELAYU (ASTRO GO)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/525_144.png" group-logo="https://i.ibb.co/Fq4SZvYx/SHRLIPTV.jpg",100 Heroes
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5183/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#####https://linearjitp-playback.astro.com.my/dash-wv/linear/5183/default_primary.mpd
+
 
 
 
