@@ -1973,4 +1973,275 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 
 
+##################################### SINGAPORE ###########################
 
+
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+13rX2iP1n7CDHEZHH9FkA", "kid":"G47j2xfTRUeYOiw93D0o/A" } ], "type":"temporary" }
+#EXTINF:-1 group-title="ðŸ‡¸ðŸ‡¬ meWATCH" group-logo="https://i.ibb.co/Fq4SZvYx/SHRLIPTV.jpg" tvg-id="Channel5.sg" tvg-chno="997" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/1200px-Mediacorp_Channel_5_2023.svg.png",Channel 5
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/10938150/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"SFpVhZ/aBaHj6K4a5jkG6A", "kid":"pDFecmYCTfyd25Zncn2WNQ" } ], "type":"temporary" }
+#EXTINF:-1 group-title="ðŸ‡¸ðŸ‡¬ meWATCH" tvg-id="Channel8.sg" tvg-chno="998" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/9826991/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"YfC35TdoIU1NVpF/vPwnIw", "kid":"mB/aHUKqTYGzZ9hXlER+Kg" } ], "type":"temporary" }
+#EXTINF:-1 group-title="ðŸ‡¸ðŸ‡¬ meWATCH" tvg-id="ChannelU.sg" tvg-chno="999" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%276318764%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=396&Height=250",Channel U
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754156/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"daVFBmlUubf6+pbXKoROAA", "kid":"22RrN0K6QnGKKENqH0AaqA" } ], "type":"temporary" }
+#EXTINF:-1 group-title="ðŸ‡¸ðŸ‡¬ meWATCH" tvg-id="Suria" tvg-name="Suria" tvg-chno="1000" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",Channel Suria
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/13230332/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MbNI0FlZPIH463qPX5madg", "kid":"/NsMITaNTGqo9MCOTNRCVg" } ], "type":"temporary" }
+#EXTINF:-1 group-title="ðŸ‡¸ðŸ‡¬ meWATCH" tvg-id="Vasantham" tvg-chno="1001" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mediacorp_Vasantham_2023.svg/1200px-Mediacorp_Vasantham_2023.svg.png",Channel Vasantham
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/13229990/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+
+
+
+#EXTINF:-1 group-title="ðŸ‡¸ðŸ‡¬ meWATCH" tvg-id="Local.Programming.Dummy.us" tvg-chno="1006" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/1200px-Mewatch_2023.svg.png",meWATCH+ 1 
+https://tglmp04.akamaized.net/out/v1/e36dedd84b194bc18d82f570f5b3eb32/master_5.m3u8
+  
+#EXTINF:-1 group-title="ðŸ‡¸ðŸ‡¬ meWATCH" tvg-id="Local.Programming.Dummy.us" tvg-chno="1006" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/1200px-Mewatch_2023.svg.png",meWATCH 1 
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+#EXTINF:-1 group-title="ðŸ‡¸ðŸ‡¬ meWATCH" tvg-id="Local.Programming.Dummy.us" tvg-chno="1007" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/1200px-Mewatch_2023.svg.png",meWATCH 2
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.channelnewsasia.com/sites/default/themes/mc_cna_theme/images/logo.png" group-title="ðŸ‡¸ðŸ‡¬ meWATCH",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+  
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="ðŸ‡¸ðŸ‡¬ meWATCH",Mediacorp Entertainment English
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="ðŸ‡¸ðŸ‡¬ meWATCH",Mediacorp Entertainment Tamil
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="ðŸ‡¸ðŸ‡¬ meWATCH",Mediacorp Entertainment China
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
+
+  
+####################################### 10. SINGAPORE CHANNEL RADIO ########################################
+                                                                                                                           
+#EXTINF:-1 tvg-logo="https://iili.io/JmSE4Mx.png" group-title="ðŸ‡¸ðŸ‡¬ meWATCH",(Radio) 987 
+https://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac
+#EXTINF:-1 tvg-logo="https://iili.io/JmSErnj.png" group-title="ðŸ‡¸ðŸ‡¬ meWATCH",(Radio) Class 95
+https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tvg-logo="https://iili.io/JmSEscB.png" group-title="ðŸ‡¸ðŸ‡¬ meWATCH",(Radio) CNA 938
+https://playerservices.streamtheworld.com/api/livestream-redirect/938NOWAAC.aac
+#EXTINF:-1 tvg-logo="https://iili.io/JmSE66Q.png" group-title="ðŸ‡¸ðŸ‡¬ meWATCH",(Radio) Money FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac
+#EXTINF:-1 tvg-logo="https://iili.io/JmSEUZb.png" group-title="ðŸ‡¸ðŸ‡¬ meWATCH",(Radio) Ria 89.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac                                                                                                                                                            
+
+  
+
+
+
+
+
+#EXTINF:-1  tvg-id="97073" group-logo="https://i.ibb.co/Fq4SZvYx/SHRLIPTV.jpg" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318742'&EntityType='Item'&EntityId='97073'&Width=488&Height=249" group-title="ðŸ‡¸ðŸ‡¬ meWATCH MPD SG (LIVE EVENT)" , M LIVE 1
+https://tglmp04.akamaized.net/out/v1/b38b8a6306714a8e91ae7674291a4a94/manifest.mpd
+#EXTINF:-1  tvg-id="97078" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318744'&EntityType='Item'&EntityId='97078'&Width=515&Height=250" group-title="ðŸ‡¸ðŸ‡¬ meWATCH MPD SG (LIVE EVENT)", M LIVE 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aafd4cc04e18453a8cb18d1e9b9eabeb:37f5e8b3da54affdea805a11501ad2cb
+https://tglmp02.akamaized.net/out/v1/a655d44ba90444a38a4c2bd74aa998e0/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"By5hGjg6LR49TY6hngFqcQ", "kid":"9RWBlMxAROaZ0N8Bdy8iEg" } ], "type":"temporary" }
+#EXTINF:-1 group-title="ðŸ‡¸ðŸ‡¬ meWATCH MPD SG (LIVE EVENT)" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg", M SPL 1
+https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sub/8k2mdlSvVI/mGqa9Wg", "kid":"3rbITbTcRXi9qmHpZbNCTA" } ], "type":"temporary" }
+#EXTINF:-1 group-title="ðŸ‡¸ðŸ‡¬ meWATCH MPD SG (LIVE EVENT)" tvg-id="" tvg-chno="" group-logo="https://i.ibb.co/Fq4SZvYx/SHRLIPTV.jpg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg", M SPL 2
+https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
+
+
+
+  
+  
+  
+  
+  
+  
+##################### 9. BRUNEI ###############################
+  
+  
+  
+  
+  
+  
+  
+#EXTINF:-1 tvg-id="CHN" ch-number=" " tvg-name="RTB Sukmaindera" group-logo="https://i.ibb.co/Fq4SZvYx/SHRLIPTV.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="ðŸ‡§ðŸ‡³ BRUNEI",RTB Sukmaindera
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CHN" ch-number=" " tvg-name="RTB Aneka" tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-aneka-title.png" group-title="ðŸ‡§ðŸ‡³ BRUNEI", RTB Aneka
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
+  
+#EXTINF:-1 tvg-id="TV1" ch-number=" " tvg-name="Go Live" group-title="ðŸ‡§ðŸ‡³ BRUNEI" group-logo="https://png.pngtree.com/png-clipart/20221215/ourmid/pngtree-9. BRUNEI-flag-in-watercolor-hard-brush-new-png-image_6524989.png" tvg-logo="https://rtb-images.glueapi.io/300x0/live/GoLiveNew.png", Go Live
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8|referer=https://www.rtbgo.bn/  
+
+#EXTINF:-1 tvg-id="" group-title="ðŸ‡§ðŸ‡³ BRUNEI" group-logo="https://pictr.com/images/2023/04/18/Enlr0g.png" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pelangi-title.png",RTB Pelangi (Radio)
+https://d2kziuzkf9oizb.cloudfront.net/rd001/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ðŸ‡§ðŸ‡³ BRUNEI" group-logo="https://pictr.com/images/2023/04/18/Enlr0g.png" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/harmoni-title.png",RTB Harmoni (Radio)
+https://d2kziuzkf9oizb.cloudfront.net/rd002/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ðŸ‡§ðŸ‡³ BRUNEI" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pilihan-title.png",RTB Pilihan (Radio)
+https://d2kziuzkf9oizb.cloudfront.net/rd003/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ðŸ‡§ðŸ‡³ BRUNEI" group-logo="https://pictr.com/images/2023/04/18/Enlr0g.png" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nurislam-title.png",RTB Nurislam (Radio)
+https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ðŸ‡§ðŸ‡³ BRUNEI" group-logo="https://pictr.com/images/2023/04/18/Enlr0g.png" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nasional-title.png",RTB Nasional (Radio)
+https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
+
+  
+
+
+
+
+
+
+
+
+##################### RTM KLIK ###############################
+
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8?id=14
+
+
+#EXTINF:-1 tvg-id="113" ch-number="113" group-logo="https://i.ibb.co/Fq4SZvYx/SHRLIPTV.jpg" tvg-name="TV6" group-title="ðŸ‡²ðŸ‡¾ RTM KLIK" tvg-logo="https://rtm.glueapi.io/v3/content/24095/image/960x540/images.thumbnail", ROLL
+https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8?id=24095
+#EXTINF:-1 tvg-id="113" ch-number="113" tvg-name="TV6" group-title="ðŸ‡²ðŸ‡¾ RTM KLIK" tvg-logo="https://rtm.glueapi.io/v3/content/24099/image/960x540/images.thumbnail", Snap
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8?id=24099
+#EXTINF:-1 tvg-id="113" ch-number="113" tvg-name="TV6" group-title="ðŸ‡²ðŸ‡¾ RTM KLIK" tvg-logo="https://rtm.glueapi.io/v3/content/24100/image/960x540/images.thumbnail", APETITO
+https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8?id=24100
+#EXTINF:-1 tvg-id="113" ch-number="113" tvg-name="TV6" group-title="ðŸ‡²ðŸ‡¾ RTM KLIK" tvg-logo="https://rtm.glueapi.io/v3/content/24101/image/960x540/images.thumbnail", LEAD
+https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8?id=24101
+#EXTINF:-1 tvg-id="113" ch-number="113" tvg-name="TV6" group-title="ðŸ‡²ðŸ‡¾ RTM KLIK" tvg-logo="https://rtm.glueapi.io/v3/content/24102/image/960x540/images.thumbnail", AURA
+https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8?id=24102
+#EXTINF:-1 tvg-id="113" ch-number="113" tvg-name="TV6" group-title="ðŸ‡²ðŸ‡¾ RTM KLIK" tvg-logo="https://rtm.glueapi.io/v3/content/24103/image/960x540/images.thumbnail", FITRAH
+https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8?id=24103
+#EXTINF:-1 tvg-id="113" ch-number="113" tvg-name="TV6" group-title="ðŸ‡²ðŸ‡¾ RTM KLIK" tvg-logo="https://rtm.glueapi.io/v3/content/24104/image/960x540/images.thumbnail", JR.
+https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8?id=24104
+#EXTINF:-1 tvg-id="113" ch-number="113" tvg-name="TV6" group-title="ðŸ‡²ðŸ‡¾ RTM KLIK" tvg-logo="https://rtm-images.glueapi.io/320x0//live_channel/BTL2025.png", BORAK Tengah Lapar (SALURAN KHAS)
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/chunklist_b2596000_slENG.m3u8?id=13669
+#EXTINF:-1 tvg-id="113" ch-number="113" tvg-name="TV6" group-title="ðŸ‡²ðŸ‡¾ RTM KLIK" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/RTMAsean.png", RTM Asean (SALURAN KHAS)
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8?id=16
+#EXTINF:-1 tvg-id="113" ch-number="113" tvg-name="TV6" group-title="ðŸ‡²ðŸ‡¾ RTM KLIK" tvg-logo="https://rtm-images.glueapi.io/320x0///live_channel/AllEngland1.png", All England 2025 - Saluran 1 (SALURAN KHAS)
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/chunklist_b2596000_slENG.m3u8?id=12
+#EXTINF:-1 tvg-id="113" ch-number="113" tvg-name="TV6" group-title="ðŸ‡²ðŸ‡¾ RTM KLIK" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/AllEnglandSaluran2.jpeg", All England 2025 - Saluran 2 (SALURAN KHAS)
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/chunklist_b1096000_slENG.m3u8?id=14
+
+<<><>><><><><><><://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+
+
+
+
+
+#EXTINF:-1 tvg-id="DidikTVKPM" ch-number="147" tvg-name="DidikTV KPM" group-title="ðŸ‡²ðŸ‡¾ RTM KLIK" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420324:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",Didik TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
+
+#EXTINF:-1 tvg-id="DidikTVKPM" ch-number="147" tvg-name="DidikTV KPM" group-title="ðŸ‡²ðŸ‡¾ RTM KLIK" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png", 147 TV7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
+
+#EXTINF:-1 tvg-id="113" ch-number="113" tvg-name="TV6" group-title="ðŸ‡²ðŸ‡¾ RTM KLIK" tvg-logo="https://i.ibb.co/LPVMhTq/tv6.png", 113 TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
+
+  
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Edoa02jQys/+SCS2s14itw", "kid":"DLeYDp0diVf5opPtljQkEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="ðŸ‡²ðŸ‡¾ RTM KLIK"  tvg-logo="https://iili.io/1NqvDJ.png",8TV CH148
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
+
+
+#EXTINF:-1 tvg-id="149" ch-number="149" tvg-name="TV9" group-title="ðŸ‡²ðŸ‡¾ RTM KLIK" tvg-logo="https://ott-1.ottnavi99.workers.dev/0:/ott-1/TV9.png",149  TV9 (server 1)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
+
+
+
+
+
+#EXTINF:-1 tvg-id="TVSUKAN" ch-number="111" tvg-name="SUKAN RTM" group-title="ðŸ‡²ðŸ‡¾ RTM KLIK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png",111 Sukan RTM
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+#<<<>>>>#https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+  
+  
+
+#EXTINF:-1 tvg-id="Dewan Negara" ch-number="111" tvg-name="Dewan Negara" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDN_bckg.png" group-title="ðŸ‡²ðŸ‡¾ RTM KLIK",Parlimen Dewan Negara (SALURAN KHAS)
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b2596000_slENG.m3u8?id=7
+  
+  
+
+#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1" group-title="ðŸ‡²ðŸ‡¾ RTM KLIK" group-logo="https://i.ibb.co/Fq4SZvYx/SHRLIPTV.jpg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+
+#EXTINF:-1 tvg-id="TV2" ch-number="102" tvg-name="TV2" group-title="ðŸ‡²ðŸ‡¾ RTM KLIK" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2 
+  
+#EXTINF:-1 tvg-id="146" ch-number="146" tvg-name="TV Okey" group-title="ðŸ‡²ðŸ‡¾ RTM KLIK" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png", 146 Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+  
+#EXTINF:-1 tvg-id="BERITARTM" ch-number="" tvg-name="BERITA RTM" tvg-logo="https://ott-1.ottnavi99.workers.dev/0:/ott-1/BERITARTM.png" group-title="ðŸ‡²ðŸ‡¾ RTM KLIK",Berita RTM  
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+
+#EXTINF:-1 tvg-id="TVSUKAN" ch-number="111" tvg-name="SUKAN RTM" group-title="ðŸ‡²ðŸ‡¾ RTM KLIK" tvg-logo="https://ott-1.ottnavi99.workers.dev/0:/ott-1/SUKANRTM.png",111 Sukan RTM
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+  
+#EXTINF:-1 tvg-id="113" ch-number="113" tvg-name="TV6" group-title="ðŸ‡²ðŸ‡¾ RTM KLIK" tvg-logo="https://i.ibb.co/LPVMhTq/tv6.png", 113 TV6
+#<<<>>>>#https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
+  
+#EXTINF:-1 tvg-id="Dewan Negara" ch-number="111" tvg-name="Dewan Negara" tvg-logo="https://ott-1.ottnavi99.workers.dev/0:/ott-1/NEGARA.png" group-title="ðŸ‡²ðŸ‡¾ RTM KLIK",Parlimen Dewan Negara
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+#<<<>>>>#https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
+
+#EXTINF:-1 tvg-id="Dewan Rakyat" ch-number="111" tvg-name="Dewan Rakyat" tvg-logo="https://ott-1.ottnavi99.workers.dev/0:/ott-1/RAKYAT.png" group-title="ðŸ‡²ðŸ‡¾ RTM KLIK",Parlimen Dewan Rakyat (SALURAN KHAS)
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
+
+
+
+
+  
+
+
+
+  
+
+
+
+  
+  
+  
