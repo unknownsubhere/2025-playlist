@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="🌟 MTS IPTV | 👤 Haziq Danial Mohd Iqbal | 📅 Expires: UNLIMITED | 📱 Devices: 1/1 | Contact: Haziq Danial Mohd Iqbal"
+#EXTM3U billed-msg="🌟 MTS IPTV | 👤 Personal | 📅 Expires: UNLIMITED | 📱 Devices: 1/1 | Contact: Haziq Danial Mohd Iqbal"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4RP1vGQ1/EXPIRED-DATE-removebg-preview.png",📅 EXPIRY: UNLIMITED
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WpfWm4jv/USERNAME-removebg-preview.png",👤 USER: Haziq Danial Mohd Iqbal
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0hKJY7g/DEVICE-LIMIT.png",📱 DEVICES: 1/1
@@ -81,6 +81,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd|
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTINF:-1 ch-number="104" tvg-id="AstroRia" tvg-name="Astro Ria" group-title="🇲🇾 ANEKA MELAYU (ASTRO GO)" group-logo="https://i.ibb.co/Fq4SZvYx/SHRLIPTV.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Astro_Ria_%282024%29.png/640px-Astro_Ria_%282024%29.png",104 Astro Ria FHD 
 https://stream-mts.cdnmts.org/mtsstream/Astroria.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0)"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
+#EXTINF:-1 ch-number="104" tvg-id="AstroRia" tvg-name="Astro Ria" group-title="🇲🇾 ANEKA MELAYU (ASTRO GO)" group-logo="https://i.ibb.co/Fq4SZvYx/SHRLIPTV.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Astro_Ria_%282024%29.png/640px-Astro_Ria_%282024%29.png",104 Astro Ria FHD 
+https://get.perfecttv.net/dash2.mpd?channel=astroria&username=vip_level7&password=vip_level7
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"}
