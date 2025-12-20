@@ -52,17 +52,14 @@ https://5centscdn-sge1.mobileads.cloud/tokens/prima/2411231/index.m3u8?referer=h
 #https://gitlab.com/vipstream/media/-/raw/main/badminton
 
 
-#EXTINF:-1  group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title=" SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhTQg8IzIiJ3oUJ_2sKGe-h6V8LPgckNevKtw0v8IG5P2XbNZVWXwfc5z3RTB69KMVr0THgDtmFsmBNgNqCbmGUcqrPWqX15prrERQVArE-fvz-HN4qK73aMubj7K1icu1rF1ea5eLi6h45JZOVTPeQCQErCl1PDqyM8dIneky4stCBYuAJ4nA4-Cf6bbft" tvg-id="817.astro",817 Astro Sports Plus A
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=89c10c7ef0af145be7d6e88dec090b10:80558606a13a99d2c543872d8899ced0
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default_primary.mpd
-
-#EXTINF:-1  group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title=" SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhTQg8IzIiJ3oUJ_2sKGe-h6V8LPgckNevKtw0v8IG5P2XbNZVWXwfc5z3RTB69KMVr0THgDtmFsmBNgNqCbmGUcqrPWqX15prrERQVArE-fvz-HN4qK73aMubj7K1icu1rF1ea5eLi6h45JZOVTPeQCQErCl1PDqyM8dIneky4stCBYuAJ4nA4-Cf6bbft" tvg-id="817.astro",817 Astro Sports UHD 
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=89c10c7ef0af145be7d6e88dec090b10:80558606a13a99d2c543872d8899ced0
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default_primary.mpd
+#https://simplestream.x10.mx/stream/arenabola2.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
+#EXTINF:-1  group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title=" SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhTQg8IzIiJ3oUJ_2sKGe-h6V8LPgckNevKtw0v8IG5P2XbNZVWXwfc5z3RTB69KMVr0THgDtmFsmBNgNqCbmGUcqrPWqX15prrERQVArE-fvz-HN4qK73aMubj7K1icu1rF1ea5eLi6h45JZOVTPeQCQErCl1PDqyM8dIneky4stCBYuAJ4nA4-Cf6bbft" tvg-id="805.astro",805 Astro UHD 4k 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
 
 
 
@@ -993,9 +990,9 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7W1n2VPRSwJrJgLPiEZXfg","kid":"Xv0m2lABNjtNb6SpyBKtEA"}],"type":"temporary"}
 #EXTINF:-1  tvg-id="SPOTV2" tvg-name="SPOTV HD" group-title=" SPORTS" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Spotv.png",824 SPOTV 2 A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1812,30 +1809,27 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 
 
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"918adebe10a9848d567dc6cb5adce510":"084e76561bba9d4f3ae953acdd37b3ed"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
 #EXTINF:-1 tvg-id="241.astro" ch-number="241" tvg-name="ABOMovies Thangathirai HD" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhUqQMNCG126HR1T42ORyzWuHOC6PIWXUnRnF0AI4IpeaUkFvrKieZcqsiHvAyolVz78iaKsC01rQvyp8BN1sppokWf053HRc9mQ7o4HbwMPRLP3XGnIIIQ43JyqE9_eu56Lva5WU1SN_WNVwPKWwAcCGFDDMlYesbWfQSd0Iy_yntJtTmkzRXe5L0I0-IM" group-title=" INDIAN", 241 Astro BOX OFFICE B
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"}
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aMXbOzCfq1UDpv21gN3ygQ", "kid":"x3N+3R1ngk+nDfcxVL+BEA" } ], "type":"temporary" }
-#EXTINF:-1  tvg-id="202" ch-number=" " tvg-name="Astro Vinmeen HD" group-title=" INDIAN" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh66MyNdrzzeFdK8CmYrlWFVsHbALY6pPHLPRxW4FakdKgQM6Rr3pjXzVsc-W_vM5IgbWq6EguQ59qgamOjG4ud0nZx6P1jubcDRnhaoxIlGdEhVLwUAXwJl0F5KrS0uCbFOF1UicKMPy4wCmOS_RGMc1xjvCscHYBZlKQpm06lrS1wLuWCHM5OfgTRhE_Q",202 Astro Vinmeen
+#EXTINF:-1  tvg-id="202" ch-number=" " tvg-name="Astro Vinmeen HD" group-title=" INDIAN" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh66MyNdrzzeFdK8CmYrlWFVsHbALY6pPHLPRxW4FakdKgQM6Rr3pjXzVsc-W_vM5IgbWq6EguQ59qgamOjG4ud0nZx6P1jubcDRnhaoxIlGdEhVLwUAXwJl0F5KrS0uCbFOF1UicKMPy4wCmOS_RGMc1xjvCscHYBZlKQpm06lrS1wLuWCHM5OfgTRhE_Q",202 Astro Vinmeen A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2105/default_ott.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
 #EXTINF:-1  tvg-id="202" ch-number=" " tvg-name="Astro Vinmeen HD" group-title=" INDIAN" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh66MyNdrzzeFdK8CmYrlWFVsHbALY6pPHLPRxW4FakdKgQM6Rr3pjXzVsc-W_vM5IgbWq6EguQ59qgamOjG4ud0nZx6P1jubcDRnhaoxIlGdEhVLwUAXwJl0F5KrS0uCbFOF1UicKMPy4wCmOS_RGMc1xjvCscHYBZlKQpm06lrS1wLuWCHM5OfgTRhE_Q",202 Astro Vinmeen B
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_primary.mpd
 
 
 
@@ -1851,6 +1845,21 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd
+
+#EXTINF:-1 tvg-id="245" ch-number=" " tvg-name="Vijay Super" group-title="INDIAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest?cb=20210319232047",245 Vijay Super A
+http://royalibox.com:80/live/m7t7u5p96o/g4xb6pbb1r/277101.m3u8
+#https://haoyunlai.serv00.net/Smartv-1.php?id=vijaysuper_raj
+
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"  tvg-id="246" ch-number=" " tvg-name="Vijay Super" group-title="INDIAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest?cb=20210319232047",245 Vijay Super B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/406.ts
+#http://starshare.fun/live/0746623849/567894321/1614.m3u8
+
+#EXTINF:-1 tvg-id="247" ch-number=" " tvg-name="Vijay Super" group-title="INDIAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest?cb=20210319232047",245 Vijay Super C
+https://live.dinesh29.com.np/stream/jiotvplus/vijaysuperhd/master.m3u8
+
+EXTINF:-1 tvg-id="248" ch-number=" " tvg-name="Vijay Super" group-title="INDIAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest?cb=20210319232047",245 Vijay Super D
+http://89.187.189.98/VIJAYSUPER/index.m3u8
 
 
 
