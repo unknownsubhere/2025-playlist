@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	]
+}https:{
+	"folders": [
+		{
+			"path": ""
+		}
+	],
+	"settings": {}
+}//github.com/microsoft/vscode/issues/136120
