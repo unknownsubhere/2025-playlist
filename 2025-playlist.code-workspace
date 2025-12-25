@@ -12,3 +12,98 @@
 	],
 	"settings": {}
 }//github.com/microsoft/vscode/issues/136120
+https://localhost:3000/api/data
+writefile
+https://appreciatehq.com/feedback/8f3d6f4e-1e2b-4c3e-9f4a-56789abcdef0
+backup
+quickopen
+{
+	"folders": [
+		{
+			"path": ""
+		}
+	],
+	"settings": {}
+}code-workspace
+issue
+localhost:8080
+vsmacros
+workunspece
+2025-playlist
+{
+	"folders": [
+		{
+			"path": ""
+		}
+	],
+	"settings": {}
+}github.com/Microsoft/vscode/issues/136120
+https://localhost:3000/api/data
+writefile
+https://appreciatehq.com/feedback/8f3d6f4e-
+{
+	"folders": [
+		{
+			"path": ""
+		}
+	],
+	"settings": {}
+}code-workspace
+issue
+localhost:{
+	"folders": [
+		{
+			"path": ""
+		}
+	],
+	"settings": {}
+}8080
+wsmacros
+ipv6/ipv4
+address
+192.168.0.0/16
+192.190./8
+zhsaipv4
+zhsaipv6
+fe80::/10
+2001:dbs8::/32
+{
+	"folders": [
+		{
+			"path": ""
+		}
+	],
+	"settings": {}
+}f885:04b3:0000:0000:0000:0000:0000:0000/64
+fd12:3456:789a:1::1/64
+{
+	"folders": [
+		{
+			"path": ""
+		}
+	],
+	"settings": {}
+}eet code-workspace
+subnet
+cidr
+vmsvacros
+v2ray:{
+	"folders": [
+		{
+			"path": ""
+		}
+	],
+	"settings": {}
+}test code-workspace
+vless://5a351797-09a1-4a5e-8807-ede64bff4d4d@100.0.1:433?encryption=none&security=tls&type=ws&host=example.com&patch=/v2ray&flow=xtls-rprx-vision#Example_VLESS_WSS_TLS
+patch
+/v2ray
+xtls-rprx-vision
+{
+	"folders": [
+		{
+			"path": ""
+		}
+	],
+	"settings": {}
+}
