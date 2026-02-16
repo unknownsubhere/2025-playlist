@@ -173,18 +173,14 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_primary.mpd
 #EXTINF:-1 tvg-id="333.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroHuaHeeDai_2024.png" group-title="Astro",Hua Hee Dai
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=89de71cf39be0946dec828edff84d010:9d5e036094bb77cbaf8867d3272c66d0
 #EXTINF:-1 tvg-id="308.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroQJ_2024.png" group-title="Astro",QJ
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
+http://protv.asia:8080/33887773366/226999/1218
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=286aef4e8d85db66e05fe4a5c799e410:176e2938bce795d1c85559a2440477f7
 #EXTINF:-1 tvg-id="311.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAOD_2024.png" group-title="Astro",AOD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1010,12 +1006,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b08559f2efb4075b6b31666b412932d:f574a17ae1805bf390b58d2bf814c062
-#EXTINF:-1 tvg-id="118" tvg-name="Astro Warna HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png?w=272?13404" group-logo="https://play-lh.googleusercontent.com/VoO-h1PLqBjWfSzS6NPJ9vvwKNxCQzJYmhafzow2gdXt-xTgmKVwutrTrPcqY5-e72V-=w240-h480" group-title="Astro",1000 ASTRO WARNA HD
+#EXTINF:-1 tvg-id="118" tvg-name="Astro Warna HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png?w=272?13404" group-logo="https://play-lh.googleusercontent.com/VoO-h1PLqBjWfSzS6NPJ9vvwKNxCQzJYmhafzow2gdXt-xTgmKVwutrTrPcqY5-e72V-=w240-h480" group-title="Astro", Warna
 https://ucdn.starhubgo.com/bpk-tv/Astro_warna_new/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0510cd2f13504601956fb58167de6beb:bdd71968a15b634b3e097173a8b7ea7b
-#EXTINF:-1 tvg-id="123" tvg-name="Astro Sensasi HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/123_1920x1080_HTV.png?w=272?13404" group-logo="https://play-lh.googleusercontent.com/VoO-h1PLqBjWfSzS6NPJ9vvwKNxCQzJYmhafzow2gdXt-xTgmKVwutrTrPcqY5-e72V-=w240-h480" group-title="Astro",1000 ASTRO SENSASI HD
+#EXTINF:-1 tvg-id="123" tvg-name="Astro Sensasi HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/123_1920x1080_HTV.png?w=272?13404" group-logo="https://play-lh.googleusercontent.com/VoO-h1PLqBjWfSzS6NPJ9vvwKNxCQzJYmhafzow2gdXt-xTgmKVwutrTrPcqY5-e72V-=w240-h480" group-title="Astro" , Sensasi
 https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd|X-Forwarded-For=119.56.77.101
 
 
