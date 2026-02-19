@@ -1016,6 +1016,7 @@ https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd|X-Forwarded-F
 
 
 ##############################################################Astro First###############################################################
+
 #EXTINF:-1 tvg-id="472.astro" tvg-logo="https://i.ibb.co/22JXN7Q/Saluran-Astro-First.png" group-title="Astro First" group-logo="",Banduan
 https://get.perfecttv.net/okayru.m3u8?id=12159687985871
 
@@ -1029,7 +1030,6 @@ https://cloud.hownetwork.xyz/xxx/Oxc8PGgVEjU2NAVhcQBkbW8vDAwBNSgZHTRCL3YIbjtx/37
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-id="474.astro" tvg-logo="https://i.ibb.co/22JXN7Q/Saluran-Astro-First.png" group-title="Astro First",Misteri Rumah Darah
 https://fift.larhu.website/hls/vxzxh457qoqfycihmtk7zwphacljdekjknepkdeyiytndrurwmyqp25vxmka/index-v1-a1.m3u8
-
 
 #EXTINF:-1 tvg-id="475.astro" tvg-logo="https://i.ibb.co/22JXN7Q/Saluran-Astro-First.png" group-title="Astro First",Akad Yang Hilang 
 https://get.perfecttv.net/okayru.m3u8?id=12159895734991
@@ -1084,14 +1084,13 @@ https://cloud.hownetwork.xyz/xxx/ebce55c66843b0bbf6a92f5bb21b5257/26/480.m3u8
 #EXTINF:-1 tvg-id="486.astro" tvg-logo="https://i.ibb.co/22JXN7Q/Saluran-Astro-First.png" group-title="Astro First",Love Me
 https://cloud.hownetwork.xyz/xxx/26af53a153c5983f064b6ae1916d1bf6/31/480.m3u8
 
-
 #EXTINF:-1 tvg-id="487.astro" tvg-logo="https://i.ibb.co/22JXN7Q/Saluran-Astro-First.png" group-title="Astro First", Keluang Man 
 https://get.perfecttv.net/okayru.m3u8?id=11667504368335
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-id="488.astro" tvg-logo="https://i.ibb.co/22JXN7Q/Saluran-Astro-First.png" group-title="Astro First",Y2K
-https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/Y2K%20(2024)-1-720.mp4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firepng" group-title="Astro First",Y2K
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/Y2K%20(2024)-1-720.mp4fox/101.0
+#EXTINF:-1 tvg-id="488.astro" tvg-logo="https://i.ibb.co/22JXN7Q/Saluran-Astro-First.
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
