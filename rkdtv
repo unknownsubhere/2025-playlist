@@ -1034,6 +1034,9 @@ https://fift.larhu.website/hls/vxzxh457qoqfycihmtk7zwphacljdekjknepkdeyiytndrurw
 #EXTINF:-1 tvg-id="475.astro" tvg-logo="https://i.ibb.co/22JXN7Q/Saluran-Astro-First.png" group-title="Astro First",Akad Yang Hilang 
 https://get.perfecttv.net/okayru.m3u8?id=12159895734991
 
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjIzODY5NzAtNTcyMC00ZTY5LWI5OTctNjJkODNkYzZhMTdkXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg" group-title="Akad Yang hilang", Akad Yang Hilang 
+https://get.perfecttv.net/okayru.m3u8?id=12159895734991
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-id="476.astro" tvg-logo="https://i.ibb.co/22JXN7Q/Saluran-Astro-First.png" group-title="Astro First",From the World of John Wick Ballerina
@@ -1447,6 +1450,7 @@ http://216.132.70.171:8080/live/vip_3klp0es8/wg3piwEs/2688.ts?channel=pix
   
 #EXTINF:-1 tvg-id="" tvg-name="152 Star Movies" tvg-logo="https://get.perfecttv.net/logo/starmovies.png" group-title="Movies",152 Star Movies
 http://216.132.70.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts?channel=starmovies
+
 
 
 
